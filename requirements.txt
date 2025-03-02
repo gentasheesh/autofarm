@@ -1,0 +1,4 @@
+asyncio
+loguru
+fake-useragent
+curl-cffi
